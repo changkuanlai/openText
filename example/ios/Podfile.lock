@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - open_txt (0.0.1):
+    - Flutter
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - open_txt (from `.symlinks/plugins/open_txt/ios`)
+  - SVProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - SVProgressHUD
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  open_txt:
+    :path: ".symlinks/plugins/open_txt/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  open_txt: 9211e5c44838c433b072800302b3f48033116984
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: 09b1c23d51ad2e54fd6027657a7c4f5b696dbe46
+
+COCOAPODS: 1.10.0
