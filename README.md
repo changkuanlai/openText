@@ -1,6 +1,8 @@
 # open_txt
+  Welcome to modify
 
-A new flutter plugin project.
+ flutter open loacal txt novel. stat❤️ (本地打开txt小说)
+
 
 ## Getting Started
 
